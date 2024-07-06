@@ -1,0 +1,83 @@
+#u{
+    background-image: url(./bg.jpg);
+    background-size: 100%;
+}
+#j{
+    margin-top: 250px;
+    background-image: url(./welcome.jpg);
+    background-size: 100%;
+    
+}
+#l{
+    height: 1000px;
+    margin-top: 50px;
+    margin-left: 600px;
+    background-color: black;
+    
+}
+#q{
+    background-image: url(./nana.jpg);
+   
+}
+.text{
+    position: absolute;
+    top: 500px;
+    left: 870px;
+    color: aliceblue;
+    
+}
+h1{
+    color: antiquewhite;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.t{
+    position: absolute;
+    top: 300px;
+    left: 700px;
+    color: aliceblue;
+}
+li{
+    color: antiquewhite;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    color: antiquewhite;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.y{
+    position: absolute;
+    top: 230px;
+    left: 700px;
+    color: aliceblue;
+}
+.f{
+    position: absolute;
+    top: 330px;
+    left: 700px;
+    color: aliceblue;
+}
+.g{
+    position: absolute;
+    top: 330px;
+    left: 750px;
+    color: aliceblue;
+}
+
+#z{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 
+  font-style: oblique;
+  margin-top: 450px;
+ color: black;
+}
+#t{
+    margin-top: 80px;
+    
+}
+#H{
+    color: black
+}
